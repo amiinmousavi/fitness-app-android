@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FitnessApp</string>
+    <string name="logo_png">logo.png</string>
+    <string name="muscles_png">muscles.png</string>
+    <string name="exercises_png">exercises.png</string>
+    <string name="top_app_bar_anatomical_regions">Anatomical Regions</string>
+    <string name="abdominals">Abdominals</string>
+    <string name="muscles">Muscles</string>
+    <string name="exercises">Exercises</string>
+    <string name="details">Details</string>
+    <string name="arms">Arms</string>
+    <string name="back">Back</string>
+    <string name="chest">Chest</string>
+    <string name="legs">Legs</string>
+    <string name="shoulders">Shoulders</string>
+    <string name="back_button">Back</string>
+    <string name="muscle_datails">Muscle Details</string>
+    <string name="loading">Loading</string>
+    <string name="loading_failed">Loading failed</string>
+    <string name="placeholder_result">Placeholder result text</string>
+</resources>
